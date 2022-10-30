@@ -1,3 +1,14 @@
 {
-  "item.tutoiralmod.mythril_ingot": "Mythril Ingot"
+  "item.tutorialmod.tanzanite": "Tanzanite",
+  "item.tutorialmod.raw_tanzanite": "Raw Tanzanite",
+
+  "item.tutorialmod.tanzanite_pickaxe": "Tanzanite Pickaxe",
+  "item.tutorialmod.tanzanite_axe": "Tanzanite Pickaxe",
+  "item.tutorialmod.tanzanite_shovel": "Tanzanite Shovel",
+  "item.tutorialmod.tanzanite_hoe": "Tanzanite Hoe",
+  "item.tutorialmod.tanzanite_sword": "Tanzanite Sword",
+
+  "block.tutorialmod.tanzanite_block": "Tanzanite Block",
+  "block.tutorialmod.tanzanite_ore": "Tanzanite Ore",
+  "block.tutorialmod.deepslate_tanzanite_ore": "Deepslate Tanzanite Ore"
 }

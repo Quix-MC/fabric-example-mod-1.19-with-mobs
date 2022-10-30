@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "tutoiralmod:item/mythril_ingot.png"
+    "layer0": "tutorialmod:item/tanzanite"
   }
 }
